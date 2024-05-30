@@ -1,0 +1,57 @@
+body {
+    background: url(wallpaper.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+.flex-container {
+
+    }
+
+.card{
+    background-color: yellow;
+    box-shadow: 5px 5px 6px;
+    background-position: center;
+    background-size: cover;
+}
+
+.card2{
+    background-color: purple;
+    box-shadow: 5px 5px 6px;
+    background-position: center;
+    background-size: cover;
+}
+
+.card3{
+    background-color: orange;
+    box-shadow: 5px 5px 6px;
+    background-position: center;
+    background-size: cover;
+}
+
+.card4{
+    background-color: lightblue;
+    box-shadow: 5px 5px 6px;
+    background-position: center;
+    background-size: cover;
+}
+
+.card5{
+    background-color: burlywood;
+    box-shadow: 5px 5px 6px;
+    background-position: center;
+    background-size: cover;
+}
+
+.card6{
+    background-color: lightblue;
+    box-shadow: 5px 5px 6px;
+    background-position: center;
+    background-size: cover;
+}
